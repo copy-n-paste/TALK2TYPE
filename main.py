@@ -24,7 +24,7 @@ if not gemini_api_key:
 
 # Configure the Gemini model
 genai.configure(api_key=gemini_api_key)
-model = genai.GenerativeModel("models/gemini-1.5-flash-latest")
+model = genai.GenerativeModel("") # Select Model
 
 # Initialize Text-to-Speech engine globally
 engine = pyttsx3.init()
