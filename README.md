@@ -1,4 +1,4 @@
-# 🎙️ GeminiGPT – The Voice Assistant Who Talks, Types, and Sometimes Thinks Too Hard
+## GeminiGPT – The Voice Assistant Who Talks, Types, and Sometimes Thinks Too Hard
 
 Welcome to **GeminiGPT**, the AI-powered assistant that listens to you, talks back, does your math homework, and even types love letters you’re too shy to send.
 
